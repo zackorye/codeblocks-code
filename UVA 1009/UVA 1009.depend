@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521458420 source:d:\codeblocks\wenjian project\uva 1009\main.cpp
+	<string>
+	<iostream>
+	<iosfwd>
+	<cmath>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+

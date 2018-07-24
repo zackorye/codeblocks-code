@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521016301 source:d:\codeblocks\wenjian project\source dream 1 d\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

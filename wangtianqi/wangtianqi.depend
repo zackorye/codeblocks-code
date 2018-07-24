@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522630196 source:d:\codeblocks\wenjian project\wangtianqi\main.cpp
+	<iostream>
+	<cstdio>
+	"List.h"
+
+1522630615 d:\codeblocks\wenjian project\wangtianqi\list.h
+	<iostream>
+	<cstdlib>
+

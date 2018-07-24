@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521959172 source:d:\codeblocks\wenjian project\sd3\main.cpp
+	<iostream>
+	<math.h>
+	<cstdio>
+	<iostream>
+	<math.h>
+	<algorithm>
+	<string.h>
+	<cstdio>
+	<fstream>
+

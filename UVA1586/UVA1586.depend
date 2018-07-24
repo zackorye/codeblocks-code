@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521183662 source:d:\codeblocks\wenjian project\uva1586\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
