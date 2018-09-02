@@ -1,17 +1,4 @@
 # depslib dependency file v1.0
-1532435703 source:d:\codeblocks\wenjian project\test\main.cpp
+1535185213 source:d:\codeblocks\wenjian project\test\main.cpp
 	<iostream>
-	<cstdio>
-	<cstring>
-	<math.h>
-	<iostream>
-	<cstdio>
-	<cstring>
-	<vector>
-	<iostream>
-	<cstring>
-	<cstdio>
-	<queue>
-	<vector>
-	<algorithm>
 
